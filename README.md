@@ -5,7 +5,7 @@ End-to-end Netflix content analytics using Python, PostgreSQL and Power BI
 An end-to-end data analytics project on Netflix's content catalog.
 **Python** for cleaning, EDA and statistical analysis → **PostgreSQL** for validation and business insights → **Power BI** for an interactive dashboard.
 
-![Dashboard Preview](dashboard/screenshots/dashboard.png)
+![Dashboard Preview](dashboard/screenshots/dashboard.png.png)
 
 ---
 
